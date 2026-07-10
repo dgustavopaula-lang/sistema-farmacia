@@ -1,0 +1,105 @@
+:root {
+  --cor-principal: #16a085;
+  --cor-escura: #0e6655;
+  --cor-alerta: #e74c3c;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f2f9f7;
+  color: #1f2d2b;
+}
+
+header {
+  background: var(--cor-principal);
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+main {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.card, .resultado {
+  background: white;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.08);
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input, select {
+  width: 100%;
+  padding: 12px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: var(--cor-principal);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--cor-escura);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  color: var(--cor-escura);
+}
+
+.btn-excluir {
+  background: #c0392b;
+  padding: 6px 12px;
+  font-size: 13px;
+  margin-top: 0;
+}
+
+.btn-excluir:hover {
+  background: #922b21;
+}
+
+.validade-proxima {
+  color: var(--cor-alerta);
+  font-weight: bold;
+}
+
+#alertaValidade {
+  color: var(--cor-alerta);
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ddd;
+}
