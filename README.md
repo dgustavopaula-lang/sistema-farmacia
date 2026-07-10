@@ -27,3 +27,6 @@ Não é necessário instalar nada — funciona direto no navegador, em computado
 ## Autor
 
 Gustavo Paula Santos
+## Contato
+   
+   Email dgustavopaula@gmail.com
