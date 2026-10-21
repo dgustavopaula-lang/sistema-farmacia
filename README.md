@@ -1,32 +1,41 @@
-# Sistema Farmácia
+# Sistema Farmácia 🚀
 
-Sistema de gestão para farmácias, com cadastro de medicamentos, controle de validade e registro de vendas.
+**GPS.dev | Aplicações digitais para necessidades reais**
 
-## Funcionalidades
+## Sobre | Overview
 
-- Cadastro de medicamentos (nome, lote, validade, preço, estoque)
-- Alerta automático de medicamentos vencendo em até 30 dias
-- Registro de vendas com atualização automática de estoque
-- Resumo diário de vendas e itens em estoque
+Projeto de gestão de farmácias com cadastro de medicamentos, acompanhamento de validade, estoque e registro de vendas, conforme documentação existente.
 
-## Como usar
+**EN:** Sistema Farmácia is part of the GPS.dev software portfolio. It is presented as a project for evaluation; features and production readiness must be verified before adoption.
 
-Acesse o sistema pelo link:
+## Objetivo | Purpose
 
-https://dgustavopaula-lang.github.io/sistema-farmacia/
+Oferecer uma base de software simples, compreensível e passível de evolução, com atenção à experiência de uso, à manutenção e à segurança.
 
-Não é necessário instalar nada — funciona direto no navegador, em computador ou celular.
+## Tecnologias | Technology
 
-## Tecnologias utilizadas
+Interface web; verifique a implementação no código.
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- LocalStorage (armazenamento local dos dados)
+## Estado | Project status
 
-## Autor
+**Projeto em revisão documental.** A publicação deste repositório não significa que autenticação, disponibilidade, integrações ou adequação à produção foram validadas.
 
-Gustavo Paula Santos
-## Contato
-   
-   Email dgustavopaula@gmail.com
+## Segurança | Security 🔒
+
+- Não incluir credenciais ou informações pessoais reais em exemplos.
+- Testar funções e controles de acesso antes de uso comercial.
+- Não declarar integração ativa com a NexoTerraCore/API Central sem evidência de teste.
+- Preservar cópias de segurança antes de alterações de infraestrutura.
+
+## Ecossistema | Ecosystem
+
+- [GPS.dev — site institucional](https://gustavopaulasantos.com.br)
+- [Conecta — vitrine de projetos](https://github.com/dgustavopaula-lang/conecta)
+- [NexoTerraCore — API Central](https://github.com/dgustavopaula-lang/nexoterracore)
+- [Turing — inteligência artificial](https://github.com/dgustavopaula-lang/turing-py)
+
+## Autor | Author
+
+**Gustavo Santos** — Full Stack Developer • APIs • Automation • Digital Products
+
+*Documentação de apresentação. Os recursos efetivamente implementados devem ser conferidos no código do projeto.*
